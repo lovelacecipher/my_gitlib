@@ -1,15 +1,7 @@
 # My GitLib
 
-A personal Python utility library with an interactive menu.
+This is my Github Library with all of my projects
 
-## Features
-- Greeting function
-- Math helper
-- Text tools
-- File writer
-- Colorful interactive menu
+This is evidence of my learning how to program in order to be a better SysAdmin and eventually an AI/ML Engineer.
 
-## How to Run
-1. Clone the repository
-2. Create and activate a virtual environment
-3. Run `python menu.py`
+Stop by and look at my work
