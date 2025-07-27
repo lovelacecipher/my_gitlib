@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-07-25",
+        "category": "Food",
+        "amount": 10.5,
+        "description": "Lunch"
+    },
+    {
+        "date": "2002-09-04",
+        "category": "Food",
+        "amount": 200.0,
+        "description": "Groceries"
+    },
+    {
+        "date": "2002-09-05",
+        "category": "Transport",
+        "amount": 200000.0,
+        "description": "Plane ride around the world"
+    },
+    {
+        "date": "2025-07-26",
+        "category": "Lunch",
+        "amount": 18.99,
+        "description": "Taco Bell"
+    },
+    {
+        "date": "2022-04-03",
+        "category": "Entertainment",
+        "amount": 50000.0,
+        "description": "Home movie theater"
+    }
+]
