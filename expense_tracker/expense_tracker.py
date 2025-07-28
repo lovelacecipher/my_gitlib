@@ -27,7 +27,7 @@ def load_expenses():
     return[]   # If the file doesn't exist returns an empty list
   with open(DATA_FILE, "r") as file:
     return json.load(file)
-  
+
 
 def save_expenses(expenses):
   """Save expenses to the JSON file."""
@@ -214,7 +214,6 @@ def main_menu():
       break
     else:
       print(Fore.RED + Style.BRIGHT + "Invalid option, please try again.\n")
-
 
 
 if __name__ == "__main__":
